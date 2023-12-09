@@ -28,3 +28,6 @@ As a front-end developer, my primary responsibility is to create the user interf
 <p  align="right">
  <a href="https://github.com/shabbir303" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabbir303&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
+
+## Technologies I work on
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
