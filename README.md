@@ -30,4 +30,4 @@ As a front-end developer, my primary responsibility is to create the user interf
 </p>
 
 ## Technologies I work on
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,nodejs,express,mongodb,figma,git,vscode,)](https://skillicons.dev)
