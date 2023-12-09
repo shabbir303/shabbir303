@@ -14,9 +14,6 @@ As a front-end developer, my primary responsibility is to create the user interf
 * ✉️  You can contact me at [hossainshabbir51@gmail.com](mailto:hossainshabbir51@gmail.com)
 * 🧠  I'm currently learning React.js Node.js, Next.js
 
-<a href="https://www.github.com/shabbir303" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/shabbir303?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" /></a>
-
 
 ## My GitHub Stats
 
