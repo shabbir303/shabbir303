@@ -15,7 +15,7 @@ As a front-end developer, my primary responsibility is to create the user interf
 * 🧠  I'm currently learning React.js Node.js, Next.js
 
 
-## My GitHub Stats
+:chart_with_upwards_trend: ## My GitHub Stats
 
 <a href="http://www.github.com/shabbir303"><img src="https://github-readme-stats.vercel.app/api?username=shabbir303&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="shabbir303's GitHub stats" /></a>
 
