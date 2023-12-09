@@ -22,9 +22,9 @@ As a front-end developer, my primary responsibility is to create the user interf
 
 <p  align="left">
   <a href="http://www.github.com/shabbir303"><img src="https://github-readme-stats.vercel.app/api?username=shabbir303&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="shabbir303's GitHub stats" /></a></p>
-<p  align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shabbir303&theme=transparent&border_radius=0.5&card_width=535)](https://git.io/streak-stats)
-</p>
+
 <p  align="right">
  <a href="https://github.com/shabbir303" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabbir303&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
