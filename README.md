@@ -31,3 +31,7 @@ As a front-end developer, my primary responsibility is to create the user interf
 
 ## `Technologies I work on`
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,firebase,nodejs,express,mongodb,figma,git,vscode,)](https://skillicons.dev)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shabbir303&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
